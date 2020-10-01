@@ -1,3 +1,4 @@
+// thes program helps understand interrupts 
 const uint8_t btn_pin = 2; // unsigned integer (8 bits)  (0 to 255)
 const uint8_t led_pin = 5;
 
